@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/QAgent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ActualExperiment.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CRBMTestExperiment.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QExperiment.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/msrbm/msrbm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/msrbm/msrbm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/model.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/model.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/crbm/crbm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/crbm/crbm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/crbm/layers/conv.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/crbm/layers/conv.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models/crbm/layers/pool.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/putils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/putils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/utils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/utils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MSRBMTestExperiment.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simulator/simulateQ.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simulator/simulate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simulator/simulate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simulator/simulateQ2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynaQAgent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/onehut/onehut.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/onehut/onehut.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/psr/psr.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/psr/psr.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/psr/psrMW.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/generator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generator/generator.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
